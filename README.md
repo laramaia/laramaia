@@ -1,4 +1,4 @@
-# Olá, eu sou a Lara Maia! 👋
+# Olá, eu sou a Lara! 👋
 
 <p>
   <a href="mailto:laracarolinemaya@gmail.com" title="Gmail">
