@@ -13,9 +13,13 @@
 class Developer:
     def __init__(self):
         self.name = "Lara Maia"
-        self.role = "Estudante de Engenharia de Software & Analista de Suporte"
-        self.stack = ["Python", "C#", ".NET", "Django", "PostgreSQL"]
-        self.learning = ["React", "JavaScript"]
+        self.role = "Desenvolvedora Full Stack"
+        self.education = "Estudante de Engenharia de Software"
+        self.stack = ["Python", "C#", "React", "Django", "PostgreSQL"]
+        self.achievements = [
+            "🏆 1º lugar - HackaMed",
+            "🏆 1º lugar - HackerHero"
+        ]
 
     def say_hi(self):
         print("Oi! Seja bem-vindo(a).")
